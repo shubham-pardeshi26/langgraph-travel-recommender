@@ -1,0 +1,44 @@
+{
+    "query": "List 5 relaxing travel destinations in Europe under a $1000 budget",
+    "follow_up_questions": null,
+    "answer": null,
+    "images": [],
+    "results": [
+      {
+        "title": "7 European Destinations For Summer 2024 Under $1,000 - TheTravel",
+        "url": "https://www.thetravel.com/european-destinations-summer-under-1000-usd/",
+        "content": "Consider underrated European cities like Varna and Ljubljana for a cheap summer vacation in Europe for under $1,000. Vilnius, Lithuania, is a budget-friendly gem with UNESCO sites, cozy cafés, and cheap public transportation. Explore the charming city of Sibiu, Romania, with its scenic medieval architecture and affordable accommodations and activities.",
+        "score": 0.8989177,
+        "raw_content": null
+      },
+      {
+        "title": "7 European Vacations Under $1,000 - TheTravel",
+        "url": "https://www.thetravel.com/european-vacations-under-1000-usd/",
+        "content": "Whether it's historic Prague, scenic Dubrovnik, or charming Budapest, budget travelers can explore Europe affordably without compromising on experiences. Wander cobblestone streets, savor local cuisine, laze on sunny beaches, and soak in vibrant cultures without straining your wallet in these cheap European destinations under $1000 for a vacation!",
+        "score": 0.8943568,
+        "raw_content": null
+      },
+      {
+        "title": "16 Vacation Spots In Europe That Won't Break The Bank",
+        "url": "https://www.thetravel.com/cheap-vacation-spots-in-europe/",
+        "content": "Europe offers affordable vacation spots that won't break the bank, allowing travelers to explore historical gems and cultural delights. Stay at recommended accommodations with comprehensive amenities based on research for a comfortable and budget-friendly European vacation. Explore hidden gems like Leipzig, Lake Ohrid, Bansko, and more for a wallet-friendly journey through Europe's varied",
+        "score": 0.7279179,
+        "raw_content": null
+      },
+      {
+        "title": "The Best Organized Tours Under $1000 in Europe | Budget Your Trip",
+        "url": "https://www.budgetyourtrip.com/europe/tours-t_under1000",
+        "content": "Are you craving an unforgettable travel experience without draining your savings? Look no further than these incredible budget-friendly, under $1000, tours to Europe that we've meticulously analyzed to find the absolute best. From price-conscious itineraries and rave guest ratings to top-notch service, captivating destinations, and exciting activities, these handpicked budget organized tours",
+        "score": 0.6914979,
+        "raw_content": null
+      },
+      {
+        "title": "21 Best Cheap European Vacations for 2025 | U.S. News Travel",
+        "url": "https://travel.usnews.com/rankings/best-affordable-europe-vacations/",
+        "content": "U.S. News considered average hotel prices, flight deals, available vacation packages, affordable attractions and overall accessibility – plus user votes – to rank the best cheap European vacations. Use the Bratislava Card to gain entrance to more than 20 museums and attractions (including the famous Bratislava Castle), plus you'll enjoy extra perks like store and restaurant discounts and a city walking tour. You can visit many of the Czechia city's most popular attractions without charge, including Old Town Square, the Charles Bridge and Petřín Hill; explore them all on a complimentary walking tour. A three-day Vilnius Pass costs about $60 and includes entrance to more than 20 museums and attractions (like Gediminas Castle Tower), a two-hour city bike rental, a bus tour, discounts at select restaurants and more.",
+        "score": 0.56489134,
+        "raw_content": null
+      }
+    ],
+    "response_time": 1.87
+  }
